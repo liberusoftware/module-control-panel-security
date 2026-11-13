@@ -3,7 +3,7 @@
   "description": "Control Panel security findings, controls and compliance state.",
   "type": "liberu-module",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "require": {
     "php": "^8.5",
     "illuminate/database": "^13.38.0",
